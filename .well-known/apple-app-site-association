@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "8K8MNZZ47N.com.xeixos.seixo",
+          "8K8MNZZ47N.com.xeixos.seixo.dev"
+        ],
+        "components": [
+          { "/": "/c", "comment": "Seixo invite links; the code is in the # part and never reaches any server" },
+          { "/": "/c/*" }
+        ]
+      }
+    ]
+  }
+}
